@@ -1,0 +1,14 @@
+export const HIDE_ASIDE = 'hide_aside';
+export const SET_USERS = 'set_users';
+export const SET_CURRENT_USER = 'set_current_user';
+export const SET_USER_TODOS = 'set_user_todos';
+export const SET_USER_ALBUMS = 'set_user_albums';
+export const SET_USER_POSTS = 'set_user_posts';
+export const SET_ALBUM_PHOTOS = 'set_album_photos';
+export const SET_CURRENT_PHOTO = 'set_current_photo';
+export const SET_CURRENT_POST = 'set_current_post';
+export const SET_POST_COMMENTS = 'set_post_comments';
+export const SHOW_COMMENTS = 'show_comments';
+export const HIDE_COMMENTS = 'hide_comments';
+export const SHOW_PHOTOS = 'show_photos';
+export const HIDE_PHOTOS = 'hide_photos';
